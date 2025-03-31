@@ -1,7 +1,5 @@
 # Software-Engineering-ISE4133-
 
-# Team Repository
-
 This repository is owned and maintained by the following team members:
 
 - **ZHOU Angelo** - Student ID: 12244675
